@@ -7,3 +7,7 @@ this is going to
 this is sencond modify
 
 Git has a mutable index called stage.
+
+
+
+modify content after mv
